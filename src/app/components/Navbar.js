@@ -12,7 +12,7 @@ const Navbar = () => {
                       <li className="text-white mr-4 text-[16px] font-semibold">Ecommerce</li>
                       <li className="text-white mr-4 text-[16px] font-semibold">Ux & intreactive</li>
                       <li className="text-white mr-4 text-[16px] font-semibold">Who We Are</li>
-                      <button className="bg-[#00A256] px-5 py-3 rounded-[40px] text-white text-[13px] font-bold">Let’s Talk <span><Image src="/assets/send.svg" className="inline" height={20} width={21} alt="" /></span></button>
+                      <button className="bg-[#00A256] px-5 py-3 rounded-[40px] text-white text-[13px] font-bold">Let’s Talk <span><Image src="/assets/Send.svg" className="inline" height={20} width={21} alt="" /></span></button>
                   </ul>
               </nav>
           </div>
